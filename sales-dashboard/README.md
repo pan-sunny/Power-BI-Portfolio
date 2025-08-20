@@ -24,8 +24,6 @@ This dashboard helps stakeholders understand:
 
 ## Preview
 
-> *(Optional: Add a screenshot or GIF below)*
-
 ![Sales Dashboard Screenshot](../images/sales_dashboard.png)
 
 ---
