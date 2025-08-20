@@ -9,10 +9,10 @@ Each folder includes the `.pbix` file, data source, and project description.
 
 ## Sample Dashboard
 
+- 📈 Sales Dashboard
 ![Sales Dashboard Screenshot](images/sales_dashboard.png)
 
 ## Files
 
 - `sales_dashboard.pbix`
-- `hr_analytics.pbix`
-- `datasets/` (CSV files)
+
